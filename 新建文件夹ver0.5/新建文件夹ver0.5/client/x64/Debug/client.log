@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\30508\Desktop\后端组第二轮考核\新建文件夹ver0.5\新建文件夹ver0.5\client\源.cpp(28,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\30508\Desktop\后端组第二轮考核\新建文件夹ver0.5\新建文件夹ver0.5\client\源.cpp(9,7): warning C4101: “ip_server”: 未引用的局部变量
+C:\Users\30508\Desktop\后端组第二轮考核\新建文件夹ver0.5\新建文件夹ver0.5\client\源.cpp(58,33): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  LINK : 没有找到 C:\Users\30508\Desktop\后端组第二轮考核\新建文件夹ver0.5\新建文件夹ver0.5\x64\Debug\client.exe 或上一个增量链接没有生成它；正在执行完全链接
+  client.vcxproj -> C:\Users\30508\Desktop\后端组第二轮考核\新建文件夹ver0.5\新建文件夹ver0.5\x64\Debug\client.exe
